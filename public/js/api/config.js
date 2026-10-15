@@ -1,2 +1,2 @@
-export const API_BASE = 'http://127.0.0.1:8000/api';
+export const API_BASE = 'https://travel-ease-api-dpbkcyd3a8cse3gg.mexicocentral-01.azurewebsites.net/api';
 export const TOKEN_KEY = 'auth_token';
