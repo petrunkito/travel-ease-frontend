@@ -184,7 +184,7 @@ function showCliente(cliente) {
 				<span class="preview-info-value">${cliente.national_id || 'N/A'}</span>
 			</div>
 			<div class="preview-info-item" style="border-bottom: none;">
-				<span class="preview-info-label">Municipio:</span>
+				<span class="preview-info-label">Direcciòn:</span>
 				<span class="preview-info-value">${cliente.address || 'N/A'}</span>
 			</div>
 		</div>
